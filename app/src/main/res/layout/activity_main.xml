@@ -17,12 +17,7 @@
     android:textSize="30sp"
     android:text="Hello World!" />
 
-    <Button
-        android:id="@+id/roll_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="@string/roll_label" />
+
     <TextView
         android:id="@+id/result_text2"
         android:layout_width="wrap_content"
@@ -31,12 +26,6 @@
         android:textSize="30sp"
         android:text="Hello World!" />
 
-    <Button
-        android:id="@+id/roll_button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="@string/roll_label" />
     <TextView
         android:id="@+id/result_text3"
         android:layout_width="wrap_content"
@@ -46,7 +35,7 @@
         android:text="Hello World!" />
 
     <Button
-        android:id="@+id/roll_button3"
+        android:id="@+id/roll_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
